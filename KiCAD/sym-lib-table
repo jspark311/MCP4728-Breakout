@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name VianSonus2.0-parts)(type Legacy)(uri "$(KIPRJMOD)/../VianSonus2.0-parts.lib")(options "")(descr ""))
+  (lib (name MCP4728)(type Legacy)(uri /home/ian/working-copies/Breakouts/MCP4728-Breakout/KiCAD/MCP4728.lib)(options "")(descr ""))
+)
